@@ -3,10 +3,8 @@
 This is a simple JavaScript-based web application created to practice and demonstrate core web development skills including DOM manipulation, event handling, and responsive design.
 
 ## 📁 Project Structure
+js-repro/ ├── index.html          # Main HTML file ├── style/              # CSS stylesheets │   └── style.css ├── script/             # JavaScript files │   └── app.js ├── assets/         
 
-js-repro/ ├── index.html   
-          └── style.css
-          ├── script.js
 
 
 
