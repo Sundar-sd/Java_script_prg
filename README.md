@@ -20,9 +20,7 @@ js-repro/ ├── index.html          # Main HTML file ├── style/       
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e70c47ad-01f0-4963-9716-257b2d8e1483" />
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/d8777310-3fd3-4815-8173-6b278cf33f34" />
-
+- JavaScript (ES6+)
 
 ## 🧑‍💻 How to Run
 Clone the repository:git clone https://github.com/Sundar-sd/js-repro.git
