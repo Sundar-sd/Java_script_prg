@@ -1,0 +1,25 @@
+#my{
+    text-align: center;
+    color: #051515;
+    font-family: 'segoe UI';
+    font-weight: 500;
+    font-size: large;
+}
+
+#my1{
+   display: block;
+   text-align: center;
+   margin: 0.5em auto;
+   padding: 0.5em;
+   color: #000000;
+   cursor: pointer;
+   width: 100px;
+}
+
+#my3{
+    display: block;
+    margin: 0.25em auto;
+    width: 80px;
+    text-align: center;
+    padding: 0.25em;
+}
