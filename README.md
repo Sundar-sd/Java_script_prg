@@ -23,6 +23,4 @@ js-repro/ ├── index.html          # Main HTML file ├── style/       
 - JavaScript (ES6+)
 
 ## 🧑‍💻 How to Run
-
-1. Clone the repository:
-   git clone https://github.com/Sundar-sd/js-repro.git
+Clone the repository:git clone https://github.com/Sundar-sd/js-repro.git
